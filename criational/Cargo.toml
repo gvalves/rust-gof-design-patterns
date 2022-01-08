@@ -4,4 +4,5 @@ members = [
     "singleton",
     "builder",
     "prototype",
+    "factory_method",
 ]
