@@ -4,4 +4,5 @@ members = [
     "adapter",
     "bridge",
     "composite",
+    "decorator",
 ]
