@@ -129,7 +129,7 @@ impl ValidationComposite {
     }
 
     pub fn add(&mut self, validations: &mut Vec<Validation>) {
-        // self.children.append(validations)
+        self.children.append(validations)
     }
 
     pub fn remove(&mut self, validation: Validation) {
