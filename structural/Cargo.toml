@@ -6,4 +6,5 @@ members = [
     "composite",
     "decorator",
     "facade",
+    "flyweight",
 ]
