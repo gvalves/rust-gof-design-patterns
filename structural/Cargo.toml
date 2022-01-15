@@ -7,4 +7,5 @@ members = [
     "decorator",
     "facade",
     "flyweight",
+    "proxy",
 ]
