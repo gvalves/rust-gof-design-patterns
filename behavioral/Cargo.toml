@@ -3,4 +3,5 @@
 members = [
     "chain-of-responsability",
     "command",
+    "iterator",
 ]
