@@ -2,4 +2,5 @@
 
 members = [
     "chain-of-responsability",
+    "command",
 ]
