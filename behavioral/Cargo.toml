@@ -7,4 +7,5 @@ members = [
     "mediator",
     "memento",
     "state",
+    "strategy",
 ]
