@@ -8,4 +8,5 @@ members = [
     "memento",
     "state",
     "strategy",
+    "template-method",
 ]
