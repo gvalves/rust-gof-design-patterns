@@ -9,4 +9,5 @@ members = [
     "state",
     "strategy",
     "template-method",
+    "visitor",
 ]
