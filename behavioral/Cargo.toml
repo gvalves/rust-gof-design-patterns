@@ -10,4 +10,5 @@ members = [
     "strategy",
     "template-method",
     "visitor",
+    "observer",
 ]
